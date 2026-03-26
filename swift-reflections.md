@@ -1,4 +1,4 @@
-<img width="451" height="271" alt="image" src="https://github.com/user-attachments/assets/7c2a929b-cf61-466c-85b6-e6e4da52c4b6" />**Week 1: 04/03/26**
+>**Week 1: 04/03/26**
 I would define E-Literature as a piece of literature that is created for digital comsumption or intended to be consumed digitally. It can utilises tools otherwise unavailavle to create something that's impossible in the analog world. It can take advantage of hyperlinks/other digital tools to allow for consumer interaction. I think to be considered pure E-Literature is must contain some of the above elements, not simply be a scan of a script thats availbale for online download, or a book on a reading app. 
 
 Of the examples, my favourite was probably First Draft of the Revolution - it felt like a fun mix of something very old and something very new. Actually I change my mind. Favourite might have been The kinetic poem "Taroko Gorge," as it felt like you're getting something unique and for your eyes only. Something traditional literature can't give.
