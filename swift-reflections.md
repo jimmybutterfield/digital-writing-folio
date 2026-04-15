@@ -28,7 +28,9 @@ Jenny’s reflection on training a personal AI model shows how digital creative 
 
 **Week 6: 15/04/2026**
 Early concepts for my final piece are very early at this stage. I know I want to structure the piece as an online quiz similar to the ones I used to take when I was a teenager questioning my sexuality. The piece will appear as an online sexuality quiz, but I plan to include hidden meanings, rooms, and depth rather than a simple series of questions to determine your ‘percentage of gay’ so to speak. I also want the piece to express the feelings sexually confused people have, specifically the fear of accepting oneself. A point I also want to include is the data mining involved with such quizzes. Often when I took these quizzes, I’d have to enter my date of birth, location, email address, all of which I provided in the name of getting the answer I desired or some clarity. I never received clarity or the desired answers when I took these tests, and this is something I want to explore too. I might use sounds and images as a way of portraying the sense of overwhelm and loss that is felt while completing one of these quizzes.
+
 Link to my plan: https://au.miro.com/app/board/u3jVOfwwzgA=/?share_link_id=316668197186
+
 Three tasks to complete before the 22nd of April:
 1. Complete a full draft structure on Miro
 2. Decide on coding platform
