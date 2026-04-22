@@ -35,3 +35,6 @@ Three tasks to complete before the 22nd of April:
 1. Complete a full draft structure on Miro
 2. Decide on coding platform
 3. Source media to include
+
+**Week 7: 22/04/2026**
+The three goals I set last week have partially been achieved. Since setting those goals I took on a new job that has taken up a lot of my time and I'm working to recalibrate my time management. I haven't completed a full draft in Miro, but I have decided on Twine as my platform and have begun forming the story in there. I think this works better for me, forming it as I go rather than having a precise, complete draft elsewhere. I do, of course need to finalise the general structure and landing point of the story rather than blindly moving forward in Twine. As far as sourcing media goes (my other goal) I did source one image to use as a background, but thats it! moving forward my imminent goals are deciding on where the story is headed and it's ending, and figuring out better time management with my new job.  
