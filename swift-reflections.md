@@ -42,3 +42,15 @@ The three goals I set last week have partially been achieved. Since setting thos
 
 **Week 10: 13/05/2026**
 The feedback I received on my piece was basically that the work I'd done in design and style was good but the written aspect of the piece is lacking. This has encouraged me to think of different ways to expand on the written parts of my website, as keeping it purely inspired by online sexuality quizzes doesn't allow much room for writing - only a series of short questions. Jenny had the great idea of parodying the way such online quizzes use their reach for marketing and collecting information. I plan to include pop-ups along the way - maybe _exclusive sexuality quiz offers_ and requirements to include personal information to reach the end of the quiz. 
+
+**13/05/2026**
+**What place do affect and emotion have in digital works?**
+Emotion gives digital work real weight. In Hedley’s post, the project becomes powerful because it is tied to grief, memory, and family, not just technology. It shows that digital works are not purely mechanical or experimental, they can carry feeling, intimacy, and vulnerability in ways that make them deeply human.
+
+**How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?**
+Bringing theory into reflection makes the creative process feel more meaningful and grounded. It helps connect personal experimentation to larger ideas and debates. In Jenny’s piece, theory gives shape and language to the project, showing how a technical method can also be understood through feminism, memory, archives, and identity.
+
+**What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?**
+The piece feels like it moves from a technical experiment into something much more personal and emotional. That shift gives it a strong narrative arc and makes it engaging. Adding a narrative frame makes reflective writing feel less like a report and more like a story with stakes.
+
+
